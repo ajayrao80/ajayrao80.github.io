@@ -1,0 +1,16 @@
+title: Ajay Ramachandra
+author: Ajay Ramachandra
+description: Personal website with introductions, publications, and musings
+baseurl: ""
+url: "https://ajayrao80.github.io"
+theme: minima
+
+header_pages:
+  - about.md
+  - publications.md
+  - musings.md
+
+minima:
+  social_links:
+    - platform: github
+      user_url: "https://github.com/ajayrao80"
