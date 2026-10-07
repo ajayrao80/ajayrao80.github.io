@@ -4,4 +4,4 @@ title: Musings
 permalink: /musings/
 ---
 
-My thoughts and reflections.
+Place for me to corrupt the young minds. 
